@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data analysis projects
 - 🤔 I’m looking for help with breaking down technical concepts
 - 💬 Ask me about the things I am learning
-- 📫 How to reach me: https://linkedin.com/HalimatOlatunji
+- 📫 How to reach me: www.linkedin.com/in/halimat-olatunji
 - ⚡ Fun fact: I love interviewing myself
 
