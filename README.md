@@ -20,6 +20,6 @@ My work focuses on:
 - Exploring ethical and responsible AI
 - Building projects
 
-- 📫 How to reach me: www.linkedin.com/in/halimat-olatunji
-- ⚡ Fun fact: I love talking about healing and growth.
+📫 How to reach me: www.linkedin.com/in/halimat-olatunji
+⚡ Fun fact: I love talking about healing and growth.
 
