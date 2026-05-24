@@ -22,6 +22,7 @@ My work focuses on:
 
 Here is a link to some medium articles for my projects
 [Clustering depression profiles](https://medium.com/@olatunjihalimat99/clustering-depression-profiles-in-nhanes-data-e616b6703b8c)
+
 [Diabetes classification modelling](https://medium.com/@olatunjihalimat99/diabetes-prediction-with-nhanes-data-cd364970c234)
 
 
